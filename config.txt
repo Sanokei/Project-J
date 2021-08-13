@@ -5,4 +5,3 @@ highlight_videos = ["9_kOVso0yRM"]
 vod_videos = ["lC4Tn_s181M"]
 min_word_count_per_sentence = 8
 interation = 0
-
