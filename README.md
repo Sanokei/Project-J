@@ -1,4 +1,4 @@
-# Jerma-Ai
+# Jerma-Ai 2.0
 Is a project that uses Transcripts of Jerma highlight videos and tries to reconstruct new highlight videos from Twitch VODs.
 
 The model used is the pretrained google BERT model.
