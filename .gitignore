@@ -4,4 +4,8 @@
 *.py
 jerma_model/variables/variables.data-00000-of-00001
 **/videos
-**/download
+**/downloads
+**/chunks
+**/metadata
+*.mp4
+*.txt
