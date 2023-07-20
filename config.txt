@@ -1,4 +1,0 @@
-[variables]
-highlight_videos = ["9_kOVso0yRM","hOvP7GAwDh8","WY5Iforbpg0","KHdTYSh9x8g","NvBabdgthio","IXY9xx4mlw8","ZpxE5SEGJmY","9tuM1YACigo"]
-vod_videos = ["lC4Tn_s181M","k7ORf69n0FM","lpYKyolqEyg","w5Cxra_1PpQ","JNHL2FhwHNQ","zcLNS3dG1vk","R9PYgecX-xs","zea5CVNad-k"]
-min_word_count_per_sentence = 8
